@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Projects\WaterWatch\WaterWatch\obj\Debug\net6.0\WaterWatch.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\WaterWatch\WaterWatch\obj\Debug\net6.0\WaterWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Projects\WaterWatch\WaterWatch\obj\Debug\net6.0\WaterWatch.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Projects\WaterWatch\WaterWatch\obj\Debug\net6.0\WaterWatch.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Projects\WaterWatch\WaterWatch\obj\Debug\net6.0\WaterWatch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projects\WaterWatch\WaterWatch\obj\Debug\net6.0\WaterWatch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Projects\WaterWatch\WaterWatch\obj\Debug\net6.0\WaterWatch.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\Projects\WaterWatch\WaterWatch\obj\Debug\net6.0\WaterWatch.RazorAssemblyInfo.cs

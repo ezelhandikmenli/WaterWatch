@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WaterWatch</title>
+    <link rel="stylesheet" href="~/app/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/app/font-awesome/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/app/Ionicons/css/ionicons.min.css" />
+    <link rel="stylesheet" href="~/app/admin/css/AdminLTE.min.css" />
+    <link rel="stylesheet" href="~/app/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" />
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic"/>
+   
+</head>
+<body class="hold-transition skin-green sidebar-mini">
+    <div class="wrapper">
+     <header class="main-header">
+        <a class="logo" href="#" style="background: #1e282c"> 
+        <span class=logo-mini> <b>W</b>W</span>
+        <span class=logo-lg> <b style="color:green">Water</b>Watch</span></a>
+     </header>
+
+<aside class="main-sidebar">
+    <section class="sidebar">
+       <ul class="sidebar-menu" data-widget="tree">
+           
+             <li class="treeview active">
+             <a href="#">
+             <i class=fa fa-globe></i> <span>Maps</span>
+             <span class="pull-right-container">
+             <i class="fa fa-angle-left pull-right"></i></span>
+             </a>
+             <ul class="treeview-menu">
+             <li><a asp-area="" asp-controller="Home" asp-action="Index"><i class="fa fa-map"></i>Water Consumption</a></li>
+             </ul>
+             </li>
+       </ul>
+    <section>
+</aside>
+
+
+    <div class="content-wrapper">
+     <section class="content-fluid">
+      @RenderBody() 
+    </section>
+     </div>
+
+     
+
+
+    </div>
+   
+   <script src="~/app/jquery-ui/jquery-ui.min.js"></script>
+   <script>$.widget.bridge('uibutton', $.ui.button);</script>
+   <script th:src="~/app/bootstrap/dist/js/bootstrap.min.js}"></script>
+   <script th:src="~/app/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.min.js}"></script>
+   <script th:src="~/app/jquery-slimscroll/jquery.slimscroll.min.js}"></script>
+   <script th:src="~/app/fastclick/lib/fastclick.js}"></script>
+   <script th:src="~/app/dist/js/adminlte.min.js}"></script>
+   <script th:src="~/app/dist/js/demo.js}"></script>
+
+
+
+
+
+    
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
