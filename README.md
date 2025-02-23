@@ -8,8 +8,14 @@ Bu projede gerçekleştirilmiş olan WaterWatch uygulaması,  Güney Afrika'nın
 - ✅ Chart.js
 - ✅ Bootstrap
 - ✅ Javascript
+# 📌 Veritabanı
+![banner](https://github.com/ezelhandikmenli/WaterWatch/blob/master/wwwroot/photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-23%20120006.png)
 # 📌 Kulanıcı Arayüzü
 ![banner](https://github.com/ezelhandikmenli/WaterWatch/blob/master/wwwroot/photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-22%20233822.png)
 ![banner](https://github.com/ezelhandikmenli/WaterWatch/blob/master/wwwroot/photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-22%20233843.png)
 ![banner](https://github.com/ezelhandikmenli/WaterWatch/blob/master/wwwroot/photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-22%20233911.png)
 ![banner](https://github.com/ezelhandikmenli/WaterWatch/blob/master/wwwroot/photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-22%20234048.png)
+![banner](https://github.com/ezelhandikmenli/WaterWatch/blob/master/wwwroot/photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-23%20114730.png)
+![banner](https://github.com/ezelhandikmenli/WaterWatch/blob/master/wwwroot/photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-23%20114759.png)
+![banner](https://github.com/ezelhandikmenli/WaterWatch/blob/master/wwwroot/photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-23%20114838.png)
+![banner](https://github.com/ezelhandikmenli/WaterWatch/blob/master/wwwroot/photo/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-02-23%20114900.png)
